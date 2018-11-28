@@ -1,0 +1,17 @@
+.row-header {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.row-content {
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #D1C4E9;
+    margin: 0 auto;
+    padding: 20px 0 20px 0;
+}
