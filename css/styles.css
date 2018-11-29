@@ -1,3 +1,6 @@
+/** {*/
+    /*outline: 1px solid red !important;*/
+/*}*/
 .row-header {
     margin: 0 auto;
     padding: 0;
@@ -14,4 +17,13 @@
     background-color: #D1C4E9;
     margin: 0 auto;
     padding: 20px 0 20px 0;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
 }
